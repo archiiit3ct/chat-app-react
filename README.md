@@ -4,7 +4,7 @@
 
 Chat - сервис для общения и отправки сообщения. Вы можете авторизоваться под своим именем и выбрать комнату.
 
-Чтобы зайти сайт, перейдите по ссылке: [https://5eaf15260ecc6b1de7d0b16d--serene-kowalevski-006741.netlify.app/](https://5eaf15260ecc6b1de7d0b16d--serene-kowalevski-006741.netlify.app/).
+Чтобы зайти сайт, перейдите по ссылке: [https://tim-musifullin-chat-react-app.netlify.app/](https://tim-musifullin-chat-react-app.netlify.app/).
 
 ## Установка
 
